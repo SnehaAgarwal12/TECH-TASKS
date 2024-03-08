@@ -19,3 +19,4 @@ Visualize the Decision Tree using libraries like Matplotlib or Graphviz to under
 Interpret the Decision Tree structure and discuss the important features and decision rules learned by the model.
 Discuss any observations or insights gained from the model evaluation process.
 Address potential challenges or limitations encountered during the workshop.
+DATASET LINK -provided https://docs.google.com/presentation/d/12f0OEQfrjyZ95r11HZ2VSDb5sNJKK20j52nkLJMq5-w/edit?usp=sharing
